@@ -43,8 +43,8 @@ Siga os passos abaixo para executar este projeto localmente:
 
     npm run start:dev
 
-## Endpoints
-# Abaixo estão listados os principais endpoints da API:
+# Endpoints
+## Abaixo estão listados os principais endpoints da API:
 
 - **GET /players:** Retorna todos os jogadores.
 - **GET /players/:id:** Retorna um jogador específico por ID.
